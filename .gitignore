@@ -1,0 +1,21 @@
+
+# Foundry generated artifacts
+out/
+cache/
+broadcast/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log
